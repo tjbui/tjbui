@@ -6,7 +6,8 @@ Systems • Operating Systems • Compilers • Performance Engineering
 I enjoy building low-level systems software in C/C++ and exploring how software interacts with hardware.
 
 Currently:
-- Undergraduate TA — CS250 Computer Architecture
+- SWE Intern @ BIOTRONIK
+- Developer Undergraduate TA — CS240 Programming in C
 - Interested in systems, OS, compilers, and performance engineering
 
 Website: https://www.tjbui.dev  
