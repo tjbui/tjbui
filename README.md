@@ -10,14 +10,11 @@ Currently:
 - Developer Undergraduate TA — CS240 Programming in C
 - Interested in systems, OS, compilers, and performance engineering
 
-Website: https://www.tjbui.dev  
 LinkedIn: https://linkedin.com/in/tjbui
 
 ---
 
 ## Selected Projects
 
-- **Multithreaded HTTP Server** – C/C++ web server with concurrency
-- **Custom Unix Shell** – process control, pipes, redirection
-- **Custom Memory Allocator** – heap management & free lists
-- **SimpleC Compiler** – generates x86-64 assembly
+- **Toy Poker Solver** – C/C++ poker engine w/ CUDA acceleration
+- **Xinu-OS** – Extended kernel functionality
