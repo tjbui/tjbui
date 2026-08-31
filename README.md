@@ -7,7 +7,8 @@ I enjoy building low-level systems software in C/C++ and exploring how software 
 
 Currently:
 - SWE Intern @ BIOTRONIK
-- Developer Undergraduate TA — CS240 Programming in C
+- Developer Undergraduate TA - CS240 Programming in C
+- Undergraduate Researcher - Fault Tolerance for LLM Distributed Systems
 - Interested in systems, OS, compilers, and performance engineering
 
 LinkedIn: https://linkedin.com/in/tjbui
@@ -16,5 +17,6 @@ LinkedIn: https://linkedin.com/in/tjbui
 
 ## Selected Projects
 
-- **Toy Poker Solver** – C/C++ poker engine w/ CUDA acceleration
-- **Xinu-OS** – Extended kernel functionality
+- **Toy Poker Solver** - C/C++ poker engine w/ CUDA acceleration
+- **My Malloc** - Custom Malloc Implementation with extended Optimizations
+- **Xinu-OS** - Extended kernel functionality
