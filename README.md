@@ -18,5 +18,5 @@ LinkedIn: https://linkedin.com/in/tjbui
 ## Selected Projects
 
 - **Toy Poker Solver** - C/C++ poker engine w/ CUDA acceleration
-- **My Malloc** - Custom Malloc Implementation with extended Optimizations
+- **My Malloc** - Custom Malloc Implementation with extended optimizations
 - **Xinu-OS** - Extended kernel functionality
