@@ -5,10 +5,9 @@ Systems • Operating Systems • Compilers • Performance Engineering
 
 I enjoy building low-level systems software in C/C++ and exploring how software interacts with hardware.
 
-Currently:
+- Undergraduate Researcher - Fault Tolerance for LLM Distributed Systems
 - SWE Intern @ BIOTRONIK
 - Developer Undergraduate TA - CS240 Programming in C
-- Undergraduate Researcher - Fault Tolerance for LLM Distributed Systems
 - Interested in systems, OS, compilers, and performance engineering
 
 LinkedIn: https://linkedin.com/in/tjbui
