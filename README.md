@@ -13,7 +13,7 @@ I enjoy building low-level systems software in C/C++ and exploring how software 
 Relevant Coursework:
 Operating Systems, Computer Networks, Compilers, Computer Architecture, Systems Programming, Data Structures and Algorithms, Database Systems, Digital System Design
 
-LinkedIn: https://linkedin.com/in/tjbui
+LinkedIn: https://www.linkedin.com/in/tj-bui/
 
 ---
 
