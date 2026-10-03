@@ -1,9 +1,9 @@
 # Tru Bui
 
 Computer Science @ Purdue University  
-Systems • Operating Systems • Compilers • Performance Engineering
+Systems • Operating Systems • Compilers • AI Infra
 
-I enjoy building low-level systems software in C/C++ and exploring how software interacts with hardware.
+I enjoy building high performance, low-level systems software in C/C++.
 
 - Undergraduate Researcher - Fault Tolerance for LLM Distributed Systems
 - SWE Intern @ BIOTRONIK
